@@ -39,4 +39,4 @@ router.post('/', (req, res) => {
     res.json({
         message: 'Comment added!'
     });
-}
+});
